@@ -1,0 +1,27 @@
+.cards
+{
+    background-color: #00BFFF;
+    display: flex;
+    justify-content: space-around;
+}
+.cards1, .cards2, .cards3
+{
+    border: 1px solid black;
+    width: 300px;
+    height: 400px;
+}
+.cards1
+{
+    background-image: url(../imagens/lindinhos.jpg);
+    background-size: cover;
+}
+.cards2
+{
+    background-image: url(../imagens/nick-and-charlie-a-heartstopper-novella.jpg);
+    background-size: 100%;
+}
+.cards3
+{
+    background-image: url(../imagens/heartstopper.webp);
+    background-size: 200%;
+}
